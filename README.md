@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0171-excel-sheet-column-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
