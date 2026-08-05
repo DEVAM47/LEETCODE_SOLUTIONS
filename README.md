@@ -9,6 +9,15 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
