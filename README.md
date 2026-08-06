@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,8 +27,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0171-excel-sheet-column-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
