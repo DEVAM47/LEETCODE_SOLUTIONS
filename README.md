@@ -13,6 +13,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
@@ -26,6 +27,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Math
 |  |
 | ------- |
@@ -68,4 +70,5 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 <!---LeetCode Topics End-->
