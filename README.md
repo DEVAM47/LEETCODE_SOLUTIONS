@@ -33,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0171-excel-sheet-column-number) |
 ## Newton's Method
@@ -76,4 +77,8 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
