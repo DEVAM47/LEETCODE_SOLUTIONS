@@ -40,6 +40,7 @@
 | [0050-powx-n](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0171-excel-sheet-column-number) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Newton's Method
 |  |
 | ------- |
