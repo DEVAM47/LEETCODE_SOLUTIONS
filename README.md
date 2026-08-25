@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0171-excel-sheet-column-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -82,6 +83,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0410-split-array-largest-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
