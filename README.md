@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0171-excel-sheet-column-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -81,6 +83,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
