@@ -9,6 +9,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0410-split-array-largest-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0706-design-hashmap) |
 | [0875-koko-eating-bananas](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0706-design-hashmap](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0706-design-hashmap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -120,4 +122,16 @@
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0706-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
