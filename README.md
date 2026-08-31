@@ -126,6 +126,7 @@
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0706-design-hashmap) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Design
 |  |
 | ------- |
