@@ -18,6 +18,7 @@
 | [1539-kth-missing-positive-number](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Recursion
 |  |
 | ------- |
