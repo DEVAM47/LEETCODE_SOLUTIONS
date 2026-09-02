@@ -48,6 +48,7 @@
 | [0062-unique-paths](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0171-excel-sheet-column-number) |
+| [1137-n-th-tribonacci-number](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1137-n-th-tribonacci-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Newton's Method
 |  |
@@ -105,6 +106,7 @@
 | [0062-unique-paths](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
+| [1137-n-th-tribonacci-number](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -145,4 +147,8 @@
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
