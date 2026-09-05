@@ -27,6 +27,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [0410-split-array-largest-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
+| [3904-smallest-stable-index-ii](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
 |  |
 | ------- |
