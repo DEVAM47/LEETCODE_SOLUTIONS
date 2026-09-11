@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0198-house-robber) |
@@ -33,6 +34,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -164,4 +166,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
