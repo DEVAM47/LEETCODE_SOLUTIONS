@@ -56,6 +56,7 @@
 | [0171-excel-sheet-column-number](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0171-excel-sheet-column-number) |
 | [1137-n-th-tribonacci-number](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1137-n-th-tribonacci-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 ## Newton's Method
 |  |
