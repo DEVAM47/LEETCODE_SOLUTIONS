@@ -54,6 +54,7 @@
 | [0062-unique-paths](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0171-excel-sheet-column-number) |
+| [0292-nim-game](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0292-nim-game) |
 | [1137-n-th-tribonacci-number](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1137-n-th-tribonacci-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/3870-count-commas-in-range) |
@@ -171,4 +172,24 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0004-median-of-two-sorted-arrays) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
