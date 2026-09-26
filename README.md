@@ -19,6 +19,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -71,6 +72,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0706-design-hashmap](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0706-design-hashmap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -85,6 +87,7 @@
 | [0171-excel-sheet-column-number](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0171-excel-sheet-column-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
