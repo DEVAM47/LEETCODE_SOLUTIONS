@@ -89,6 +89,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2000-reverse-prefix-of-word](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -163,6 +164,7 @@
 ## Stack
 |  |
 | ------- |
+| [2000-reverse-prefix-of-word](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
 ## Memoization
 |  |
@@ -200,4 +202,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0836-rectangle-overlap) |
+## Two Pointers
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
