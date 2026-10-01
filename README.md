@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0078-subsets](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0198-house-robber) |
@@ -216,4 +217,12 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0852-peak-index-in-a-mountain-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
