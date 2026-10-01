@@ -11,6 +11,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0704-binary-search](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0706-design-hashmap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -128,6 +129,7 @@
 | [0062-unique-paths](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
@@ -231,4 +233,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
