@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0171-excel-sheet-column-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -129,6 +130,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
@@ -228,6 +230,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0494-target-sum) |
 ## Bit Manipulation
@@ -238,6 +241,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0022-generate-parentheses) |
 ## Knapsack Problem
 |  |
 | ------- |
