@@ -10,6 +10,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0494-target-sum) |
@@ -135,6 +136,7 @@
 | [0022-generate-parentheses](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0494-target-sum) |
@@ -253,6 +255,7 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -260,4 +263,12 @@
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0494-target-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
