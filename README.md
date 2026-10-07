@@ -144,6 +144,7 @@
 | [0678-valid-parenthesis-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1137-n-th-tribonacci-number) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -292,4 +293,20 @@
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Tree
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
