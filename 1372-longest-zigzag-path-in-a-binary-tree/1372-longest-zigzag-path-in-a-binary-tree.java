@@ -29,9 +29,17 @@ class Solution {
             solve(root.left,1,false);
         }
     }
+    public void solve2(TreeNode root,int l,int r){
+        if(root==null) return;
+        maxpath=Math.max(maxpath,Math.max(l,r));
+        solve2(root.left,r+1,0);
+        solve2(root.right,0,l+1);
+    }
     public int longestZigZag(TreeNode root) {
-        solve(root,0,false);
-        solve(root,0,true);
+        // solve(root,0,false);
+        // solve(root,0,true);
+
+        solve2(root,0,0);
         return maxpath;
     }
 }
