@@ -99,6 +99,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -190,6 +191,7 @@
 | [0020-valid-parentheses](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
 ## Memoization
@@ -254,6 +256,7 @@
 | [0022-generate-parentheses](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1021-remove-outermost-parentheses) |
 ## Knapsack Problem
 |  |
 | ------- |
