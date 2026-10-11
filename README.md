@@ -31,6 +31,7 @@
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -212,6 +213,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
