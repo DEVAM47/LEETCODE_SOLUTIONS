@@ -4,8 +4,8 @@ class Solution {
         int n=nums.length;
         for(int i=1;i<=n;i++){
             if(n%i==0){
-                int ans=nums[i-1]*nums[i-1];
-                sum+=ans;
+                sum+=nums[i-1]*nums[i-1];
+                
             }
         }
     return sum;
