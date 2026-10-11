@@ -7,9 +7,9 @@ class Solution {
             count++;
             last=q;
            }
-
+        if(count==k) return true;
         }
-        return count>=k;
+        return false;
     }
     public int maxDistance(int[] arr, int m) {
       
