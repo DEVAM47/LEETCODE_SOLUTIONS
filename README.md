@@ -16,6 +16,7 @@
 | [0410-split-array-largest-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0494-target-sum) |
+| [0575-distribute-candies](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0706-design-hashmap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0575-distribute-candies](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0575-distribute-candies) |
 | [0706-design-hashmap](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0706-design-hashmap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DEVAM47/LEETCODE_SOLUTIONS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
